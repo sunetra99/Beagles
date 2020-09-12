@@ -1,0 +1,164 @@
+body{
+	overflow-x: hidden!important;
+	font-family: 'Lato' , sans-serif!important;
+	color: #505962!important;
+}
+
+/*-------nav-bar--------*/
+.navbar{
+	font-weight: 700;
+	font-size: ;
+	letter-spacing: 1.6px;
+	background:  rgba(0,0,0,0.6)!important;
+}
+.navbar-brand img{
+	    height: 99px;
+}
+.navbar-nav li{
+	padding-right: 11.2px;
+}
+.navbar-dark .navbar-nav .nav-link{
+	color:#ffc107!important;
+	 font-size: 1.3rem;
+    font-weight: 800;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ffc107!important;
+    font-size: 1.3rem;
+    font-weight: 800;
+}
+
+/*-----nav-pic----*/
+.wall{
+	background-image: url(../beagle/beagle-wallpaper.jpg);
+}
+.area-card{
+	padding-top: 125px!important;
+}
+.walll {
+	color: black;
+    text-shadow: .1rem .1rem .8rem #ffc107;
+    font-size: 20px;
+    font-weight: 900; 
+}
+.area-card h3{
+	text-shadow: .1rem .1rem .8rem black;
+	padding-bottom: 25px;
+	font-size: 2.5rem;
+	font-weight: 800;
+	color: #ffc107;
+}
+
+
+/*------card-sec----*/
+.plan {
+	text-shadow: .1rem .1rem .8rem yellow;
+	font-weight: 700;
+	background-color: lavender;
+	padding-top: 116px;
+	padding-bottom: 80px;
+	text-align: center;
+	font-size: 1.5rem;
+	line-height: 1.5;
+}
+
+/*----video-sec----*/
+.beagle-vd{
+	text-shadow: .1rem .1rem .8rem black;
+	padding-bottom: 25px;
+	font-size: 2.5rem;
+	font-weight: 800;
+	color: #ffc107;
+}
+.sam{
+	background-image: url(../beagle/wall-beagle.jpg)!important;
+}
+
+/*----mid-heading---*/
+.mid-heading{
+	background-color: lavender;
+	padding-top: 100px;
+	font-weight: 700;
+	font-size: 1.3rem;
+	padding-bottom: 100px;
+}
+.head{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #ffc107;
+}
+.head-body{
+	text-shadow: .1rem .1rem .8rem yellow;
+	font-size: 
+	font-weight: 800;
+}	
+
+/*-----mid-pic-sec------*/
+#mid {
+	background-image: url(../beagle/wall-beagle5.jpg)!important;
+	padding-bottom: 30px;
+}
+
+/*-----mid-banner------*/
+
+.food{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	padding-top: 20px;
+	font-size: 2.5rem;
+	font-weight: 800;
+	color: #ffc107;
+}
+.food-para{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	color: black;
+	font-weight: 900;
+	font-size: 1.3rem;
+	padding-bottom: 20px;
+}
+
+.tble-head{
+	font-weight: 600;
+	font-size: 1.0rem;
+	color: black;
+}
+#wall{
+	background-color: lavender;
+}
+
+/*-----footer-----*/
+.fa{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	color: white!important;
+	font-weight: 200;
+	padding-bottom: 15px;
+}
+.high{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: white;
+}
+.footer-hr{
+	width: 100%;
+	text-align: center;
+	border-width: 1.5px;
+	border-color: white; 
+	padding-bottom: 25px;
+}
+#icon {
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	font-size: 1.1rem;
+	font-weight: 500;
+}
+.card-body2{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-weight: 600;
+	font-size: 1.2rem;
+}
+.card-body{
+	font-size: 1.2rem;
+	font-weight: 600;
+}

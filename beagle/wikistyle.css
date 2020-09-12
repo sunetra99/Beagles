@@ -1,0 +1,96 @@
+body{
+	background-color:  #343a40!important;
+}
+.navbar{
+	background:  rgba(0,0,0,0.6)!important;
+}
+.navbar-brand img{
+	    height: 99px;
+}
+.full-wall{
+	background-color: #343a40;
+}
+.area-card{
+	background-color: lavender!important;
+}
+/*----history-sec----*/
+
+/*heading*/
+
+#heading1 h1{
+	font-weight: 600;
+	padding-top: 150px; 
+	text-align: center; 
+	color:#ffc107; 
+	padding-bottom: 25px; 
+	text-shadow: .1rem .1rem .8rem black; 
+	font-weight: 800;
+}
+.heading2{
+	color:#ffc107; 
+	text-shadow: .1rem .1rem .8rem black; 
+	font-weight:800;
+}
+.para1{
+	text-shadow: .1rem .1rem .8rem black; 
+	font-weight: 800; 
+	color: white;
+}
+.wall2{
+	 margin-left: 40px; 
+}
+/*heading2*/
+.wall3{
+	 text-align: right!important;
+	 margin-right: 30px; 
+}
+.heading3{
+	color:#ffc107; 
+	text-shadow: .1rem .1rem .8rem black; 
+	font-weight:800;
+}
+.para2{
+	text-shadow: .1rem .1rem .8rem black; 
+	font-weight: 800; 
+	color: white;
+}
+/*heading3*/
+.heading4{
+	margin-left: 30px;
+	color:#ffc107; 
+	text-shadow: .1rem .1rem .8rem black; 
+	font-weight:800;
+}
+.para3{
+	margin-left: 30px;
+	text-shadow: .1rem .1rem .8rem black; 
+	font-weight: 800; 
+	color: white;
+}
+
+/*footer*/
+
+.fa{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	color: white!important;
+	font-weight: 200;
+	padding-bottom: 15px;
+}
+.high{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: white;
+}
+.footer-hr{
+	width: 100%;
+	text-align: center;
+	border-width: 1.5px;
+	border-color: white; 
+	padding-bottom: 25px;
+}
+#icon {
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	font-size: 1.1rem;
+	font-weight: 500;
+}

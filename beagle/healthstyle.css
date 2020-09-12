@@ -1,0 +1,39 @@
+body{
+	background-color:  #343a40!important;
+}
+.navbar{
+	background:  rgba(0,0,0,0.6)!important;
+}
+.navbar-brand img{
+	    height: 99px;
+}
+.area-card1{
+	padding-top: 125px!important;
+}
+
+/*footer*/
+
+.fa{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	color: white!important;
+	font-weight: 200;
+	padding-bottom: 15px;
+}
+.high{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: white;
+}
+.footer-hr{
+	width: 100%;
+	text-align: center;
+	border-width: 1.5px;
+	border-color: white; 
+	padding-bottom: 25px;
+}
+#icon {
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	font-size: 1.1rem;
+	font-weight: 500;
+}
